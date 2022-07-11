@@ -1,5 +1,5 @@
 # SWT301_Selenium_ReactJS
--Team 1:
+## -Team 1:
  Vũ Tấn Tài
  Nguyễn Hoàng Tân
  Đào Đức Thịnh
