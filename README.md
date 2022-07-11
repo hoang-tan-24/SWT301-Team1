@@ -1,10 +1,10 @@
 # SWT301_Selenium_ReactJS
-## -Team 1:
- Vũ Tấn Tài
- Nguyễn Hoàng Tân
- Đào Đức Thịnh
- Võ Phạm Quốc Thắng
- Sử Khắc Trung
+ -Team 1:
+   Vũ Tấn Tài
+   Nguyễn Hoàng Tân
+   Đào Đức Thịnh
+   Võ Phạm Quốc Thắng
+   Sử Khắc Trung
 # SWT-Selenium
  ## Slider:
  * [Slider Selenium Group 1](https://docs.google.com/presentation/d/1t03Fdauw1MdOrBzEOjhZJ4mSAaJDDr1M/edit?usp=sharing&ouid=110713793306141362965&rtpof=true&sd=true)
